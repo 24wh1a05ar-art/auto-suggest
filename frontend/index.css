@@ -9,6 +9,7 @@ h1{
     border-style: solid;*/
     border: 5px solid navy;
   }
+ 
      #home-intro:hover{
         background-color: palevioletred;
      }
@@ -54,3 +55,4 @@ h1{
     button{
         width: 300px;
     }
+    
